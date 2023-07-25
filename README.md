@@ -4,7 +4,7 @@ Full-stack Software Developer
 
 ## About Me 🚀
 
--I am a results-driven Software Developer with a Master of Applied Computing degree and a keen interest in creating innovative and efficient solutions. My journey in the tech world has taken me through frontend and backend technologies, allowing me to bridge the gap between design and functionality.
+I am a results-driven Software Developer with a Master of Applied Computing degree and a keen interest in creating innovative and efficient solutions. My journey in the tech world has taken me through frontend and backend technologies, allowing me to bridge the gap between design and functionality.
 
 ## Tech Stack 💻
 
